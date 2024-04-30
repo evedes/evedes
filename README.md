@@ -1,12 +1,16 @@
 ### Hi there 👋
 
 I'm Eduardo Vedes, a.k.a. Edo,
+
 Pronouns: He/Him
+
 #BLM activist
 
 I'm a seasoned full stack software engineer, specialized on the JS ecosystem. I also have a bit of Clojure and Python experience. Want to focus on Rust/Go in the short-term.
 
 Worked in a wide range of industries:  tv / media / ott / hardware devices security / web3.
+
+----
 
 ✨ Fun Fact: I used my first computer, a ZX Spectrum 48k, when I was four years old. Since then, technology has been a constant passion in my life. After several years working as an MSc Civil Engineer, I left behind tall buildings and roads to become a self-taught Software Engineer. I completed the freeCodeCamp program and within six months, I landed my first job in tech. Now, I work remotely for a mid-sized company based in Amsterdam/Hoffdoorp.
 
@@ -44,7 +48,8 @@ Thank you in advance for any connections, advice, or opportunities you can offer
 
 Please reach out on [LinkedIn](https://linkedin.com/in/evedes) or by [e-mail](mailto:eduardo.vedes@gmail.com).
 
-
+<div class="text-center">
 https://github.com/evedes/evedes/assets/956832/f97f1302-a950-44f4-9ba8-30e007deec59
+</div>
 
 
