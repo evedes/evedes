@@ -48,6 +48,18 @@ In case you prefer a Notion version, please check it [HERE](https://eduardo-vede
 
 ---- 
 
+🏀 Hobbies:
+
+- 💻 Arch + Hyprland
+- 👾 Vim/Neovim
+- 🎹 Playing the guitar and the piano
+- 🛼 Rollerskating with my 3 princesses
+- 🍺 Beer lover
+- 📚 Book vampire
+- 🍿 Netflix binge-watcher
+
+---- 
+
 Thank you in advance for any connections, advice, or opportunities you can offer! 🙏
 
 Please reach out on [LinkedIn](https://linkedin.com/in/evedes) or by [e-mail](mailto:eduardo.vedes@gmail.com).
