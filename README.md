@@ -66,7 +66,5 @@ Please reach out on [LinkedIn](https://linkedin.com/in/evedes) or by [E-mail](ma
 
 https://github.com/evedes/evedes/assets/956832/f97f1302-a950-44f4-9ba8-30e007deec59
 
-[![Eduardo GitHub Stats](https://github-readme-stats.vercel.app/api?username=evedes)](https://github.com/evedes/github-readme-stats)
-
 
 
