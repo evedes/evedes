@@ -50,9 +50,8 @@ Thank you in advance for any connections, advice, or opportunities you can offer
 
 Please reach out on [LinkedIn](https://linkedin.com/in/evedes) or by [e-mail](mailto:eduardo.vedes@gmail.com).
 
-<video controls muted loop>
-   <source src="https://github.com/evedes/evedes/assets/956832/f97f1302-a950-44f4-9ba8-30e007deec59" type="video/mp4" />
-</video>
+<source src="https://github.com/evedes/evedes/assets/956832/f97f1302-a950-44f4-9ba8-30e007deec59" type="video/mp4" />
+
 
 
 
