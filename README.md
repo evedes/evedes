@@ -39,8 +39,10 @@ Worked in a wide range of industries:  tv / media / ott / hardware devices secur
 I'm a challenge lover ❤️
 Please "talk dirty to me" and tell me something is not possible to do! 
 
+
 Here's my resume in PDF, just in case: [PDF Resume](https://github.com/evedes/evedes/files/15171041/CV_EduardoVedes_SoftwareEngineer_2024.pdf)
-In case you prefer a Notion version, please check it [HERE](https://eduardo-vedes.notion.site/CV-Resume-cc63e243aca84deaad32d946f5fceb64?pvs=4).
+In case you prefer a Notion version, please check it [HERE](https://eduardo-vedes.notion.site/CV-Resume-cc63e243aca84deaad32d946f5fceb64?pvs=4)
+
 
 ---- 
 
@@ -48,8 +50,7 @@ Thank you in advance for any connections, advice, or opportunities you can offer
 
 Please reach out on [LinkedIn](https://linkedin.com/in/evedes) or by [e-mail](mailto:eduardo.vedes@gmail.com).
 
-<div class="text-center">
 https://github.com/evedes/evedes/assets/956832/f97f1302-a950-44f4-9ba8-30e007deec59
-</div>
+
 
 
