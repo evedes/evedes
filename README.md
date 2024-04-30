@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 <div>
-<div align="left">A</div>
-<div align="right">B</div>
-</div>
-
+<div align="left">
 I'm Edo,
 
 Pronouns: He/Him
@@ -21,7 +18,13 @@ Worked in a wide range of industries:  tv / media / ott / hardware devices secur
 
 🌈 Favourite Quote: *"If I have seen further than others, it is by standing upon the shoulders of giants." - Sir Isaac Newton*
 
-🦄 I'm a Indie Hacker wannabe. Nowadays I'm focused on growing [creatorsguild.ink](https://creatorsguild.ink).
+🦄 I'm a Indie Hacker wannabe. Nowadays I'm focused on growing [creatorsguild.ink](https://creatorsguild.ink).   
+</div>
+<div align="right">
+   https://github.com/evedes/evedes/assets/956832/f97f1302-a950-44f4-9ba8-30e007deec59
+</div>
+</div>
+
 
 ---- 
 
@@ -68,8 +71,3 @@ In case you prefer a Notion version, please check it [HERE](https://eduardo-vede
 Thank you in advance for any connections, advice, or opportunities you can offer! 🙏
 
 Please reach out on [LinkedIn](https://linkedin.com/in/evedes) or by [E-mail](mailto:eduardo.vedes@gmail.com).
-
-https://github.com/evedes/evedes/assets/956832/f97f1302-a950-44f4-9ba8-30e007deec59
-
-
-
