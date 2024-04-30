@@ -21,10 +21,7 @@ Worked in a wide range of industries:  tv / media / ott / hardware devices secur
 🦄 I'm a Indie Hacker wannabe. Nowadays I'm focused on growing [creatorsguild.ink](https://creatorsguild.ink).   
 </div>
 <div align="right">
-   B
-   <video width="500" height="500" controls>
-      <source src="https://github.com/evedes/evedes/assets/956832/f97f1302-a950-44f4-9ba8-30e007deec59" type="video/mp4">
-   </video>
+   [![]()(https://github.com/evedes/evedes/assets/956832/f97f1302-a950-44f4-9ba8-30e007deec59)]
 </div>
 </div>
 
