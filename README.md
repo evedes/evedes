@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Eduardo Vedes, a.k.a. Edo,
+I'm Edo,
 
 Pronouns: He/Him
 
@@ -13,6 +13,8 @@ Worked in a wide range of industries:  tv / media / ott / hardware devices secur
 ----
 
 ✨ Fun Fact: I used my first computer, a ZX Spectrum 48k, when I was four years old. Since then, technology has been a constant passion in my life. After several years working as an MSc Civil Engineer, I left behind tall buildings and roads to become a self-taught Software Engineer. I completed the freeCodeCamp program and within six months, I landed my first job in tech. Now, I work remotely for a mid-sized company based in Amsterdam/Hoffdoorp.
+
+🌈 Favourite Quote: *"If I have seen further than others, it is by standing upon the shoulders of giants." - Sir Isaac Newton*
 
 🦄 I'm a Indie Hacker wannabe. Nowadays I'm focused on growing [creatorsguild.ink](https://creatorsguild.ink).
 
