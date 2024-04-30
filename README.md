@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div>
+<div align="left">A</div>
+<div align="right">B</div>
+</div>
+
 I'm Edo,
 
 Pronouns: He/Him
