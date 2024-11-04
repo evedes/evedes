@@ -1,16 +1,12 @@
 ## Hi there 👋
 
-<!--
-**evedes/evedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👻 Hi, my name is Eduardo “Edo” Vedes
+- 🏴‍☠️ Unschooled Senior Software Engineer (focused on the JS ecosystem)
+- 🇵🇹 I live in the sunny countryside south of Portugal
+- ☀️ Solar punk
+- 🛹 I’m 0b101100 (feeling like a teen 💪)
+- 💅 Beautiful wife, 3 amazing daughters 👸🏾 + 👸🏾👸🏽👸🏼
+- 🖤 Multicultural family, avid activist of the #blm movement
+- 🎓 MSc in Civil Engineering by IST with more than a decade of expertise managing and directing construction projects both in Portugal and Sub-Saharan Africa (Angola 🇦🇴)
+- 🏆 freeCodeCamp Top Contributor 2018
+- 🚸 Mentor and Career Change expert (in the software field)
