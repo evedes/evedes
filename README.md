@@ -6,6 +6,8 @@
 - 🏆 freeCodeCamp Top Contributor 2018
 - 🚸 Mentor and Career Change expert
 
+CTO and Co-Founder of [Zarta](https://www.getzarta.com), "automating the grunt work of documentation"
+
 ## About
 
 I build systems that solve real problems—and lead the teams that bring them to life.
