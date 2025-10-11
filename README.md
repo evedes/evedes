@@ -23,3 +23,11 @@ Tech I love working with: React, JavaScript, TypeScript, Node.js Nest.js, Docker
 ## Author of
 
 - [code your future](https://eduardovedes.gumroad.com/l/codeyourfuture)
+
+## Other stuff
+
+<div align="right">
+
+![LeetCode user user3368Ha ](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fuser3368Ha&logo=leetcode&logoColor=yellow)
+
+</div>
