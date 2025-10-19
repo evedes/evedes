@@ -2,6 +2,7 @@
 
 - 👻 Hi, my name is Eduardo “Edo” Vedes
 - 🇵🇹 I live in the sunny countryside south of Portugal
+- 👨‍👩‍👦 Husband to a beautiful wife, and father to three amazing daughters
 - 🎓 MSc in Civil Engineering by IST
 - 🏆 freeCodeCamp Top Contributor 2018
 - 🚸 Mentor and Career Change expert
@@ -22,7 +23,7 @@ Tech I love working with: React, JavaScript, TypeScript, Node.js Nest.js, Docker
 
 ## Author of
 
-- [code your future](https://eduardovedes.gumroad.com/l/codeyourfuture)
+[code your future](https://eduardovedes.gumroad.com/l/codeyourfuture)
 
 ## Other stuff
 
