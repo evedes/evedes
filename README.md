@@ -21,12 +21,12 @@ Tech I love working with: React, JavaScript, TypeScript, Node.js Nest.js, Docker
 
 ## Writes in
 
-- [codeyourfuture.substack.com](https://codeyourfuture.substack.com)
-- [blog.eduardovedes.com](https://blog.eduardovedes.com)
+- 📕 [codeyourfuture.substack.com](https://codeyourfuture.substack.com)
+- 📘 [blog.eduardovedes.com](https://blog.eduardovedes.com)
 
 ## Author of
 
-[code your future](https://eduardovedes.gumroad.com/l/codeyourfuture)
+- 📒 [code your future](https://eduardovedes.gumroad.com/l/codeyourfuture)
 
 ## Other stuff
 
