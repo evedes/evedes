@@ -19,6 +19,11 @@ I work remote from Portugal and collaborate with teams across the US and Europe.
 
 Tech I love working with: React, JavaScript, TypeScript, Node.js Nest.js, Docker, CI/CD ops, PostgreSQL, AI/ML integrations (OpenAI, Anthropic), and anything that makes developer's life easier.
 
+## Writes in
+
+- [codeyourfuture.substack.com](https://codeyourfuture.substack.com)
+- [blog.eduardovedes.com](https://blog.eduardovedes.com)
+
 ## Author of
 
 [code your future](https://eduardovedes.gumroad.com/l/codeyourfuture)
