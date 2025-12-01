@@ -31,6 +31,7 @@ Tech I love working with: React, JavaScript, TypeScript, Node.js Nest.js, Docker
 ## Indie Hacking
 
 - ☠️ [atomize.ink](https://atomize.ink)
+- 🚀 [atomize blog](https://atomize.ink/blog)
 
 ## Other stuff
 
