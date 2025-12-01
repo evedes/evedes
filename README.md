@@ -36,6 +36,10 @@ Tech I love working with: React, JavaScript, TypeScript, Node.js Nest.js, Docker
 - ☠️ [atomize.ink](https://atomize.ink)
 - 🚀 [atomize blog](https://atomize.ink/blog)
 
+## Prompt to Prod - AI Coding Challenges
+
+- [💥 #01 Build an AI Client Tool](https://github.com/evedes/ai-client-tool)
+
 ## Other stuff
 
 <div align="right">
