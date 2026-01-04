@@ -25,18 +25,18 @@ Tech I love working with: React, JavaScript, TypeScript, Node.js Nest.js, Docker
 
 ## Newsletters
 
-- 📕 [codeyourfuture.substack.com](https://codeyourfuture.substack.com)
+- 📕 [fullstackaiengineer.substack.com](https://fullstackaiengineer.substack.com)
 
 ## Author of
 
-- 📒 [code your future - A Guide to Career Change and Success in Software Engineering](https://eduardovedes.gumroad.com/l/codeyourfuture)
+- 📒 Code Your Future - A Guide to Career Change and Success in Software Engineering (being rewritten and updated in 2026)
 
 ## Indie Hacking
 
 - ☠️ [atomize.ink](https://atomize.ink)
 - 🚀 [atomize blog](https://atomize.ink/blog)
 
-## Prompt to Prod - AI Coding Challenges
+## The Fullstack AI Engineer - AI Coding Challenges
 
 - [💥 #01 Build an AI Client Tool](https://github.com/evedes/ai-client-tool)
 
