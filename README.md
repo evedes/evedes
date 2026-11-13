@@ -11,7 +11,7 @@
 
 I'm a software engineer, consultant, AI trainer, and founder of One Dev Army. I build systems that solve real problems—and lead the teams that bring them to life.
 
-Over the past 8+ years, I've worn many hats: frontend architect, team lead, CTO, and always a full stack hands-on engineer. I've helped scale platforms serving 100M+ users and architected fintech applications from the ground up.
+I've been coding since 1986, and professionally for 9+ years. Along the way, I've worn many hats: frontend architect, team lead, CTO, and always a full stack hands-on engineer. I've helped scale platforms serving 100M+ users and architected fintech applications from the ground up.
 
 What drives me? The intersection of great code and great teams. I believe the best solutions emerge when you combine solid technical architecture with clear communication, mentorship, and a bias toward shipping. Whether I'm refactoring a PostgreSQL schema, designing a component library, or implementing AI pipelines, I'm focused on creating value that lasts.
 
